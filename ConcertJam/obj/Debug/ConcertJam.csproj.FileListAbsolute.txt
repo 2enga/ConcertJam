@@ -85,3 +85,4 @@ C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\Conce
 C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.dll
 C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.pdb
 C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.csprojResolveAssemblyReference.cache
+C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.Migrations.AddForeignKeyPropertiesToShow.resources
