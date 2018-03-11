@@ -83,3 +83,4 @@ C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\Conce
 C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.Migrations.InitialModel.resources
 C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.csproj.GenerateResource.Cache
 C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.Migrations.CreateConcertTable.resources
+C:\Users\zenga\source\repos\ConcertJamRepo\ConcertJam\ConcertJam\obj\Debug\ConcertJam.Migrations.OverrideConventionsForShowsAndGenres.resources

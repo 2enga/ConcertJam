@@ -209,6 +209,10 @@
     <Compile Include="Migrations\201803111802285_CreateConcertTable.Designer.cs">
       <DependentUpon>201803111802285_CreateConcertTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201803111839523_OverrideConventionsForShowsAndGenres.cs" />
+    <Compile Include="Migrations\201803111839523_OverrideConventionsForShowsAndGenres.Designer.cs">
+      <DependentUpon>201803111839523_OverrideConventionsForShowsAndGenres.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationUser.cs" />
@@ -297,6 +301,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201803111802285_CreateConcertTable.resx">
       <DependentUpon>201803111802285_CreateConcertTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803111839523_OverrideConventionsForShowsAndGenres.resx">
+      <DependentUpon>201803111839523_OverrideConventionsForShowsAndGenres.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
