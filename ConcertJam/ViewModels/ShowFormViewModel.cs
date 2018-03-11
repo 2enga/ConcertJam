@@ -1,6 +1,4 @@
-﻿
-
-using ConcertJam.Models;
+﻿using ConcertJam.Models;
 using System.Collections.Generic;
 
 namespace ConcertJam.ViewModels
