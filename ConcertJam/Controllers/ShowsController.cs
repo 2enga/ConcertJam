@@ -29,6 +29,7 @@ namespace ConcertJam.Controllers
 
         [Authorize]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(ShowFormViewModel viewModel)
         {
 
